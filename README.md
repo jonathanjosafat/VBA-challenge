@@ -1,1 +1,2 @@
 # VBA-challenge
+In the module 2 challenge, we used VBA scripting to analyze generated stock market data.  We use scripting to output the ticker symbol, quarterly change from the opening price at the beginning of a quarter to the closing price at the end of the quarter, percentage change from opening price at beginning of a quarter to the closing price at the quarter, and the total stock volume of the stock.
